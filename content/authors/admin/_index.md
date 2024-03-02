@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Alejandro Lozano
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ah-leh-hahn-droh Lo-sah-noh
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alejandro
+last_name: Lozano
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student (2nd Year)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,8 +29,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Vision-Language Foundation Models 
   - Information Retrieval
 
 # Education to show in About widget
@@ -38,13 +37,10 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: [2022-Present]
+    - course: BSc in Biomedical Engineering
+      institution: Instituto Politécnico Nacional
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -102,13 +98,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=EBPnTFMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Ale9806
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ale9806
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +116,10 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently in my second year of pursuing a Ph.D. at Stanford University under the guidance of Professor Serena Yeung. My research is dedicated to the development and evaluation of multimodal vision language models tailored for practical applications in the realms of medical and biomedical sciences.
+
+During my undergraduate years, I had the privilege of being mentored by Professor Isaac Chairez and collaborated closely with Professor David Cruz and Mariana Ballesteros. My focus during this time was on non-linear and constrained control design, particularly within the context of medical rehabilitation.
+
+I am grateful for the enriching experiences I've had, thanks to the guidance and collaboration of various mentors and collaborators. Notably, I had the opportunity to work with Professors Chris Butch from Nanjing University, Henderson Cleeves from Tokyo Institute of Technology, and Boswell Wing from the University of Colorado, Boulder. Their insights have significantly contributed to shaping my academic journey and research pursuits.
+
 {style="text-align: justify;"}
