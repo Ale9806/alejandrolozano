@@ -1,0 +1,116 @@
+@inproceedings{lozano2022robust,
+  title={Robust control of a virtual back-assisted orthosis under position constraints},
+  author={Lozano, Alejandro and Torres, Fabricio and L{\'o}pez, Sara{\'\i} and Ballesteros, Mariana and Cruz-Ortiz, David and Chairez, Isaac},
+  booktitle={Advances in Automation and Robotics Research: Proceedings of the 3rd Latin American Congress on Automation and Robotics, Monterrey, Mexico 2021},
+  pages={63--70},
+  year={2022},
+  organization={Springer International Publishing}
+}
+
+@inproceedings{lozano2021musculoskeletal,
+  title={Musculoskeletal Neural Network path generator for a virtual upper-limb active controlled orthosis},
+  author={Lozano, A. and Cruz-Ortiz, D. and Chairez, and I.},
+  booktitle={43rd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={pp--6491},
+  year={2021},
+  organization={IEEE}
+}
+
+
+
+@article{arya2022open,
+  title={An open source computational workflow for the discovery of autocatalytic networks in abiotic reactions},
+  author={Arya, Aayush and Ray, Jessica and Sharma, Siddhant and Simbron, Romulo Cruz and Lozano, Alejandro and Smith, Harrison B and Andersen, Jakob Lykke and Chen, Huan and Meringer, Markus and Cleaves, Henderson James},
+  journal={Chemical Science},
+  volume={13},
+  number={17},
+  pages={4838--4853},
+  year={2022},
+  publisher={Royal Society of Chemistry}
+}
+
+@inproceedings{lozano2022robust,
+  title={Robust control for third-order electro-mechanical systems with partially unknown dynamics under state constraints},
+  author={Lozano, Alejandro and Ballesteros, Mariana and Cruz-Ortiz, David and Salgado, Iv{\'a}n and Huegel, Joel C and Chairez, Isaac},
+  booktitle={2022 8th International Conference on Control, Decision and Information Technologies (CoDIT)},
+  volume={1},
+  pages={1037--1042},
+  year={2022},
+  organization={IEEE}
+}
+
+
+
+@article{wang2022drug,
+  title={Drug chemical space as a guide for new herbicide development: A cheminformatic analysis},
+  author={Wang, Yisheng and Xiong, Youjin and Lozano, Alejandro and Wang, Yiqing and Butch, Christopher J},
+  journal={Journal of Agricultural and Food Chemistry},
+  volume={70},
+  number={31},
+  pages={9625--9636},
+  year={2022},
+  publisher={American Chemical Society}
+}
+
+@article{a2022active,
+  title={Active neck orthosis for musculoskeletal cervical disorders rehabilitation using a parallel mini-robotic device},
+  author={A. Lozano, D. Cruz-Ortiz, I. Chairez},
+  journal={Control Engineering practice},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{carida2022asymmetric,
+  title={Asymmetric Constrained Control of a Cervical Orthotic Device Based on Barrier Sliding Modes},
+  author={Carida Mireles, Alejandro Lozano, Mariana Ballesteros, David Cruz-Ortiz, and Ivan Salgado},
+  journal={Applied Sciences},
+  volume={12},
+  year={2022},
+  publisher={MDPI}
+}
+
+@article{fleming2023medalign,
+  title={Medalign: A clinician-generated dataset for instruction following with electronic medical records},
+  author={Fleming, Scott L and Lozano, Alejandro and Haberkorn, William J and Jindal, Jenelle A and Reis, Eduardo P and Thapa, Rahul and Blankemeier, Louis and Genkins, Julian Z and Steinberg, Ethan and Nayak, Ashwin and others},
+  journal={arXiv preprint arXiv:2308.14089},
+  year={2023}
+}
+
+@inproceedings{lozano2023clinfo,
+  title={Clinfo. ai: An open-source retrieval-augmented large language model system for answering medical questions using scientific literature},
+  author={Lozano, Alejandro and Fleming, Scott L and Chiang, Chia-Chun and Shah, Nigam},
+  booktitle={PACIFIC SYMPOSIUM ON BIOCOMPUTING 2024},
+  pages={8--23},
+  year={2023}
+}
+
+@article{zohar2023open,
+  title={Open World Object Detection in the Era of Foundation Models},
+  author={Zohar, Orr and Lozano, Alejandro and Goel, Shelly and Yeung, Serena and Wang, Kuan-Chieh},
+  journal={arXiv preprint arXiv:2312.05745},
+  year={2023}
+}
+
+@article{burgess2024orientation,
+  title={Orientation-invariant autoencoders learn robust representations for shape profiling of cells and organelles},
+  author={Burgess, James and Nirschl, Jeffrey J and Zanellati, Maria-Clara and Lozano, Alejandro and Cohen, Sarah and Yeung-Levy, Serena},
+  journal={Nature Communications},
+  volume={15},
+  number={1},
+  pages={1022},
+  year={2024}s,
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{cruz2024combined,
+  title={Combined Network and High Resolution Mass Spectrometry Analysis of the Formose Reaction Reveals Mechanisms for Emergent Behaviors},
+  author={Cruz-Simbron, Romulo and Sharma, Siddhant and Arya, Aayush and Ray, Jessica and Lozano, Alejandro and Andersen, Jakob Lykke and Chen, Huan and Cleaves II, Henderson James},
+  year={2024}
+}
+
+@article{wornow2024zero,
+  title={Zero-Shot Clinical Trial Patient Matching with LLMs},
+  author={Wornow, Michael and Lozano, Alejandro and Dash, Dev and Jindal, Jenelle and Mahaffey, Kenneth W and Shah, Nigam H},
+  journal={arXiv preprint arXiv:2402.05125},
+  year={2024}
+}
