@@ -16,7 +16,13 @@
   organization={IEEE}
 }
 
-
+@misc{lozano2021gvi,
+  title={GVI: GONIOMETRIA VIRTUAL INTERACTIVA.},
+  author={Lozano, Alejandro},
+  year={2021},
+  month=dec # "~1",
+  note={MX Patent 02-2021-110810310800-0}
+}
 
 @article{arya2022open,
   title={An open source computational workflow for the discovery of autocatalytic networks in abiotic reactions},
@@ -39,7 +45,15 @@
   organization={IEEE}
 }
 
-
+@inproceedings{reyes2022adaptive,
+  title={Adaptive gain first-order sliding mode control for a millimetric electrospinning device with output constraints},
+  author={Reyes-Garcia, Oscar and Lozano, Alejandro and Cruz-Ortiz, David and Ballesteros, Mariana and Chairez, Isaac},
+  booktitle={2022 8th International Conference on Control, Decision and Information Technologies (CoDIT)},
+  volume={1},
+  pages={9--14},
+  year={2022},
+  organization={IEEE}
+}
 
 @article{wang2022drug,
   title={Drug chemical space as a guide for new herbicide development: A cheminformatic analysis},
@@ -98,7 +112,7 @@
   volume={15},
   number={1},
   pages={1022},
-  year={2024}s,
+  year={2024},
   publisher={Nature Publishing Group UK London}
 }
 
@@ -113,4 +127,30 @@
   author={Wornow, Michael and Lozano, Alejandro and Dash, Dev and Jindal, Jenelle and Mahaffey, Kenneth W and Shah, Nigam H},
   journal={arXiv preprint arXiv:2402.05125},
   year={2024}
+}
+
+@article{jeong2024recent,
+  title={Recent Advances, Applications, and Open Challenges in Machine Learning for Health: Reflections from Research Roundtables at ML4H 2023 Symposium},
+  author={Jeong, Hyewon and Jabbour, Sarah and Yang, Yuzhe and Thapta, Rahul and Mozannar, Hussein and Han, William Jongwon and Mehandru, Nikita and Wornow, Michael and Lialin, Vladislav and Liu, Xin and others},
+  journal={arXiv preprint arXiv:2403.01628},
+  year={2024}
+}
+
+@inproceedings{fleming2024medalign,
+  title={MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records},
+  author={Fleming, Scott L and Lozano, Alejandro and Haberkorn, William J and Jindal, Jenelle A and Reis, Eduardo and Thapa, Rahul and Blankemeier, Louis and Genkins, Julian Z and Steinberg, Ethan and Nayak, Ashwin and others},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={20},
+  pages={22021--22030},
+  year={2024}
+}
+
+@article{chang2024red,
+  title={Red Teaming Large Language Models in Medicine: Real-World Insights on Model Behavior},
+  author={Chang, Crystal Tin-Tin and Farah, Hodan and Gui, Haiwen and Rezaei, Shawheen Justin and Bou-Khalil, Charbel and Park, Ye-Jean and Swaminathan, Akshay and Omiye, Jesutofunmi A and Kolluri, Akaash and Chaurasia, Akash and others},
+  journal={medRxiv},
+  pages={2024--04},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory Press}
 }
