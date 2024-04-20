@@ -3,7 +3,7 @@
 title: Alejandro Lozano
 
 # Name pronunciation (optional)
-name_pronunciation: Ah-leh-hahn-droh Lo-sah-noh
+#name_pronunciation: Ah-leh-hahn-droh Lo-sah-noh
 
 # Full name (for SEO)
 first_name: Alejandro
