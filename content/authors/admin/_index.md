@@ -25,8 +25,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include vision-language models, and their applications to biomedicine and healtchare.
 # Interests to show in About widget
 interests:
   - Vision-Language Foundation Models 
@@ -35,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in  Biomedical Informatics
       institution: Stanford University
       year: [2022-Present]
     - course: BSc in Biomedical Engineering
