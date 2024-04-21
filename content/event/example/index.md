@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Talk at the FDA
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# location: Hugo Blox Builder HQ
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: I was inivited to give a talk at  the FDA CDRH group on our work on Clinical trial matching  Medalign  
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-05-22T13:00:00Z'
+date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
