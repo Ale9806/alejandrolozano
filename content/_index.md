@@ -138,7 +138,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2022-10-10'
+          date_start: '2019-10-10'
           description: 'Provided Monetary Stimulus for undegraduate reacher trainees (Awarded 4 times)'
           icon: BEIFI
           organization: BEIFI-IPN

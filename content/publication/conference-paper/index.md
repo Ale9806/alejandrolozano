@@ -1,12 +1,21 @@
 ---
-title: 'An example conference paper'
+title: 'MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Scott L. Fleming
   - admin
-  - Robert Ford
+  - William J. Haberkorn
+  - Jenelle A. Jindal
+  -   Rahul Thapa
+  - Percy Liang
+  - Jonathan H. Chen
+  -  Keith E. Morse
+  - Emma P. Brunskill 
+  - Jason A. Fries 
+  -  Nigam H. Shah
 
 # Author notes (optional)
 author_notes:
