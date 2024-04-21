@@ -118,7 +118,7 @@ sections:
           organization_url: https://ahli.cc/
           title: ML4H 2023 Best Thematic Paper Award 
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url:
           date_end: ''
           date_start: '2024-01-01'
           description: Covered the cost to attend  the 2024 PSB conference
@@ -133,9 +133,21 @@ sections:
           description: 'Provides  full funding for 5 years to complete a PhD program at Stanford'
           icon: arc
           organization: Arc Institute
-          organization_url: https://www.datacamp.com
+          organization_url: 
           title: 'Arc Fellowship'
           url: ''
+          - certificate_url: 
+          date_end: ''
+          date_start: '2022-10-10'
+          description: 'Provided Monetary Stimulus for undegraduate reacher trainees (Awarded 4 times)'
+          icon: arc
+          organization: BEIFI-IPN
+          organization_url:
+          title: 'Institutional scholarship for research training'
+          url: ''
+
+
+        
     design:
       columns: '2'
   #- block: collection
