@@ -65,7 +65,7 @@ sections:
         - title: PhD Candidate
           company: Stanford University
           company_url: ''
-          company_logo: stanford_
+          company_logo: stanford
           location: California
           date_start: '2022-07-01'
           date_end: ''
