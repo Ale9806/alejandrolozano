@@ -97,7 +97,7 @@ sections:
           date_end: ''
           date_start: '2023-12-10'
           description: 'Best Thematic Paper Award for Generative AI for Health category'
-          icon: coursera
+          icon: ml4h
           organization: Association for Health Learning & Inference
           organization_url: https://ahli.cc/
           title: ML4H 2023 Best Thematic Paper Award (Generative AI for Health)
