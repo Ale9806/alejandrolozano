@@ -101,7 +101,7 @@ sections:
         - certificate_url: https://twitter.com/irenetrampoline/status/1733862120159170699/photo/2
           date_end: ''
           date_start: '2023-12-10'
-          description: ''
+          description: 'Best Thematic Paper Award for Generative AI for Health category'
           icon: coursera
           organization: Association for Health Learning & Inference
           organization_url: https://ahli.cc/
@@ -109,21 +109,21 @@ sections:
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          date_start: '2024-01-01'
+          description: Covered the cost to attend  the 2024 PSB conference
           icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          organization: Pacific Symposium on Biocomputing (PSB)
+          organization_url: https://psb.stanford.edu/
+          title: PSB Travel Award
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
+          date_end: ''
+          date_start: '2022-10-10'
+          description: 'Provides  full funding for 5 years to complete a PhD program at Stanford'
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Arch Fellowship'
           url: ''
     design:
       columns: '2'
