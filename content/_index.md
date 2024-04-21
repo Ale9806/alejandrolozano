@@ -147,7 +147,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2019-10-10'
+          date_start: '2022-10-10'
           description: 'Awarded the maximum recgonition provided by the state of Baja California to young scientists '
           icon: injuve
           organization: Instituto Mexicano de la Junvetud
