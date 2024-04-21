@@ -81,7 +81,7 @@ sections:
         - title: Guest Scientist
           company: University of Colorado Boulder
           company_url: ''
-          company_logo: MPI
+          company_logo: cu
           location: Colorado, USA
           date_start: '2021-07-10'
           date_end: '2021-10-10'
