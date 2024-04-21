@@ -40,10 +40,10 @@ education:
       year: [2022-Present]
     - course:  Study Abroad (Polytechnic Leaders Program)
       institution: University of California, San Diego
-      year: 2022
+      year: 2021
     - course: BSc in Biomedical Engineering
       institution: Instituto Politécnico Nacional
-      year: 2020
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
