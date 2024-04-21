@@ -115,7 +115,7 @@ social:
 highlight_name: true
 ---
 
-I am a second year  Ph.D.  student at Stanford University advised by Professor Serena Yeung. My research is dedicated to the development and evaluation of multimodal vision language models tailored for practical applications in the realms of medical and biomedical sciences.
+I am a second year  Ph.D.  student at Stanford University advised by Professor [Serena Yeung](https://ai.stanford.edu/~syyeung/). My research is dedicated to the development and evaluation of multimodal vision language models tailored for practical applications in the realms of medical and biomedical sciences.
 
 During my undergraduate years, I had the privilege of being mentored by Professor Isaac Chairez and collaborated closely with Professor David Cruz and Mariana Ballesteros. My focus during this time was on non-linear and constrained control design, particularly within the context of medical rehabilitation.
 
