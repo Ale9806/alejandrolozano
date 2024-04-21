@@ -89,7 +89,7 @@ sections:
         - title: Undergraduate Student Researcher 
           company: Medical Robotics and Biosignals Lab
           company_url: ''
-          company_logo: MPI
+          company_logo: IPN
           location: Mexico City, Mexico
           date_start: '2019-01-10'
           date_end: '2022-05-10'
