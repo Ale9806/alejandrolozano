@@ -66,18 +66,18 @@ sections:
           company: Stanford University
           company_url: ''
           company_logo: stanford
-          location: California
+          location: California, USA
           date_start: '2022-07-01'
           date_end: ''
           description: ""
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Guest Scientist
+          company: MPI-CBG - Max Planck Institute of Molecular Cell Biology and Genetics
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Dresden,Germany
+          date_start: '2021-06-01'
+          date_end: '2022-01-10'
+          description: 
     design:
       columns: '2'
   - block: accomplishments
