@@ -100,7 +100,7 @@ sections:
           icon: ml4h
           organization: Association for Health Learning & Inference
           organization_url: https://ahli.cc/
-          title: ML4H 2023 Best Thematic Paper Award (Generative AI for Health)
+          title: ML4H 2023 Best Thematic Paper Award 
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
