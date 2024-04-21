@@ -29,8 +29,8 @@ bio: My research interests include vision-language models, and their application
 # Interests to show in About widget
 interests:
   - Computer Vision 
-  - Vision-Language Foundation Models 
   - Information Retrieval
+  - Vision-Language Foundation Models 
 
 # Education to show in About widget
 education:
