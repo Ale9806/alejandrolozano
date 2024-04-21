@@ -136,7 +136,7 @@ sections:
           organization_url: ''
           title: 'Arc Fellowship'
           url: ''
-          - certificate_url: ''
+        - certificate_url: ''
           date_end: ''
           date_start: '2022-10-10'
           description: 'Provided Monetary Stimulus for undegraduate reacher trainees (Awarded 4 times)'
