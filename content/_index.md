@@ -87,7 +87,7 @@ sections:
           date_end: '2021-10-10'
           description: 
         - title: Undergraduate Student Researcher 
-          company: Medical Robotics and Biosignals Lab
+          company: Medical Robotics and Biosignals Lab, IPN
           company_url: ''
           company_logo: IPN
           location: Mexico City, Mexico
@@ -143,6 +143,15 @@ sections:
           organization: Arc Institute
           organization_url: ''
           title: 'Arc Fellowship'
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-10-10'
+          description: 'Awarded the maximum recgonition provided by the state of Baja California to young scientists '
+          icon: injuve
+          organization: Instituto Mexicano de la Junvetud
+          organization_url:
+          title: 'Honorable mention,  Youth Award. Category B: science and technology'
           url: ''
         - certificate_url: ''
           date_end: ''
