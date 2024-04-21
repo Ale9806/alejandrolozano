@@ -106,7 +106,7 @@ sections:
           date_end: ''
           date_start: '2024-01-01'
           description: Covered the cost to attend  the 2024 PSB conference
-          icon: edx
+          icon: psb
           organization: Pacific Symposium on Biocomputing (PSB)
           organization_url: https://psb.stanford.edu/
           title: PSB Travel Award
@@ -115,7 +115,7 @@ sections:
           date_end: ''
           date_start: '2022-10-10'
           description: 'Provides  full funding for 5 years to complete a PhD program at Stanford'
-          icon: datacamp
+          icon: arc
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Arch Fellowship'
