@@ -37,6 +37,9 @@ education:
     - course: PhD in  Biomedical Informatics
       institution: Stanford University
       year: [2022-Present]
+    - course:  Study Abroad
+      institution: University of California, San Diego
+      year: 2022
     - course: BSc in Biomedical Engineering
       institution: Instituto Politécnico Nacional
       year: 2020
