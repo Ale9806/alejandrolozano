@@ -116,7 +116,7 @@ sections:
           date_start: '2022-10-10'
           description: 'Provides  full funding for 5 years to complete a PhD program at Stanford'
           icon: arc
-          organization: DataCamp
+          organization: Arc Institute
           organization_url: https://www.datacamp.com
           title: 'Arch Fellowship'
           url: ''
