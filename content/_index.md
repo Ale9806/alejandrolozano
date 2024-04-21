@@ -74,7 +74,7 @@ sections:
           company: MPI-CBG - Max Planck Institute of Molecular Cell Biology and Genetics
           company_url: ''
           company_logo: MPI
-          location: Dresden,Germany
+          location: Dresden, Germany
           date_start: '2021-06-01'
           date_end: '2022-01-10'
           description: 
