@@ -152,7 +152,7 @@ sections:
           icon: injuve
           organization: Instituto Mexicano de la Junvetud
           organization_url:
-          title: 'Honorable mention,  Youth Award. Category B: science and technology'
+          title: 'Honorable mention,  Youth Award. Category B: Science and Technology'
           url: ''
         - certificate_url: ''
           date_end: ''
