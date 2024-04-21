@@ -134,7 +134,7 @@ sections:
           icon: arc
           organization: Arc Institute
           organization_url: https://www.datacamp.com
-          title: 'Arch Fellowship'
+          title: 'Arc Fellowship'
           url: ''
     design:
       columns: '2'
