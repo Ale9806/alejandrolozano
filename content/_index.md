@@ -94,6 +94,14 @@ sections:
           date_start: '2019-01-10'
           date_end: '2022-05-10'
           description: 
+        - title: Senior Machine Learning Engineer
+          company: SASEC SECURITY SYSTEMS 
+          company_url: ''
+          company_logo: sasec
+          location: Mexico City, Mexico
+          date_start: '2021-01-01'
+          date_end: '2022-10-10'
+          description: 
     design:
       columns: '2'
   - block: accomplishments
