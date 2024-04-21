@@ -37,13 +37,13 @@ education:
   courses:
     - course: PhD in  Biomedical Informatics
       institution: Stanford University
-      year: [2022-Present]
+      year: 2022-Present
     - course:  Study Abroad (Polytechnic Leaders Program)
       institution: University of California, San Diego
       year: 2021
     - course: BSc in Biomedical Engineering
       institution: Instituto Politécnico Nacional
-      year: 2021
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
