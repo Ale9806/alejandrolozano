@@ -140,7 +140,7 @@ sections:
           date_end: ''
           date_start: '2022-10-10'
           description: 'Provided Monetary Stimulus for undegraduate reacher trainees (Awarded 4 times)'
-          icon: arc
+          icon: BEIFI
           organization: BEIFI-IPN
           organization_url:
           title: 'Institutional scholarship for research training'
