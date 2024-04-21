@@ -86,8 +86,8 @@ sections:
           date_start: '2021-07-10'
           date_end: '2021-10-10'
           description: 
-        - title: Guest
-          company: Undergraduate Student Researcher 
+        - title: Undergraduate Student Researcher 
+          company: Medical Robotics and Biosignals Lab
           company_url: ''
           company_logo: MPI
           location: Mexico City, Mexico
