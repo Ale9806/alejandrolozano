@@ -161,7 +161,7 @@ sections:
           icon: BEIFI
           organization: BEIFI-IPN
           organization_url:
-          title: 'Institutional scholarship for research training'
+          title: 'Institutional Scholarship For Research Training'
           url: ''
 
 
