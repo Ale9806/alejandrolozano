@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student (2nd Year)
+role: Ph.D. Candidate (3rd Year)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,9 +28,12 @@ organizations:
 bio: My research interests include vision-language models, and their applications to biomedicine and healtchare.
 # Interests to show in About widget
 interests:
-  - Computer Vision 
+  - Vision-Language Foundation Models
   - Information Retrieval
-  - Vision-Language Foundation Models 
+  - Computer Vision
+
+  
+ 
 
 # Education to show in About widget
 education:
@@ -38,10 +41,10 @@ education:
     - course: PhD in  Biomedical Informatics
       institution: Stanford University
       year: 2022-Present
-    - course:  Study Abroad (Polytechnic Leaders Program)
+    - course:  Study Abroad 
       institution: University of California, San Diego
       year: 2021
-    - course: BSc in Biomedical Engineering
+    - course: BS in Biomedical Engineering
       institution: Instituto Politécnico Nacional
       year: 2022
 
